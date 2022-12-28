@@ -10,7 +10,7 @@ import com.study.springbean.KalTicket;
 
 @SpringBootApplication
 public class Springdi2Application {
-
+   
 	public static void main(String[] args) {
 		//SpringApplication.run(Springdi2Application.class, args);
 		
