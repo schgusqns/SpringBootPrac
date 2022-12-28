@@ -1,0 +1,8 @@
+package com.study.springboot;
+
+import org.springframework.stereotype.Controller;
+
+@Controller //Spring에게 해당 Class가 Controller의 역할을 한다고 명시하기 위해 사용하는 Annotation
+public class MyController {
+
+}

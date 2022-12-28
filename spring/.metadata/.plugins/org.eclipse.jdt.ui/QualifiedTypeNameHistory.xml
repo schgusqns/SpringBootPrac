@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.study.springbean.SportsCar"/>
+    <fullyQualifiedTypeName name="com.study.springbean.Truck"/>
+    <fullyQualifiedTypeName name="com.study.springboot.bean.Config"/>
+    <fullyQualifiedTypeName name="com.study.springboot.bean.Member"/>
+    <fullyQualifiedTypeName name="com.study.springboot.bean.Printer"/>
+    <fullyQualifiedTypeName name="com.study.springbean.Config"/>
+    <fullyQualifiedTypeName name="com.study.springbean.AsianaTicket"/>
+    <fullyQualifiedTypeName name="com.study.springbean.KalTicket"/>
+    <fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+</qualifiedTypeNameHistroy>
